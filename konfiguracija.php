@@ -3,7 +3,7 @@ session_start();
 //lokalno
 
 $naslov="Jelovnik restorana";
-$putanja="/projekt/";
+$putanja="/jelovnikrestorana/";
 $server="localhost";
 $baza="s0122213613_1";
 $korisnik="ecelebic@ffos.hr";
